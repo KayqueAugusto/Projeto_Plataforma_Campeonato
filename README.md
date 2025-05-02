@@ -26,7 +26,8 @@ Este projeto visa desenvolver uma plataforma digital para a organização e gest
 
 ## 📄 Documentação
 
-Para mais detalhes sobre a estrutura do projeto e instruções de uso, consulte a documentação completa disponível no [Notion](https://www.notion.so/Projeto-4-plataforma-de-campeonato-1a85e27ae34280529309d48350f3ab0e).
+Para mais detalhes sobre a estrutura do projeto e instruções de uso, consulte a documentação completa disponível no [Notion](https://www.notion.so/Projeto-4-plataforma-de-campeonato-1a85e27ae34280529309d48350f3ab0e) e 
+[trello](https://www.figma.com/design/GzKxuvujzeReJ3KLgFHfkd/jiu-jtsu?node-id=0-1&t=0WLTISzKmMJk8zWU-1)
 
 ## 🛠️ Como Contribuir
 
