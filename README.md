@@ -20,7 +20,8 @@ Este projeto visa desenvolver uma plataforma digital para a organização e gest
 
 ## 📷 Capturas de Tela
 
-*Adicione aqui imagens ou GIFs demonstrando o funcionamento da plataforma.*
+![image](https://github.com/user-attachments/assets/85f904f2-20be-441f-8ffd-8768e20b0b7e)
+
 
 ## 📄 Documentação
 
